@@ -1,4 +1,4 @@
-# ${COURSE TITLE}
+# Python-Powered Excel: Take Control of Your Data by Automating Excel Spreadsheets
 
 ![Powered by Jupyter Logo](https://cdn.oreillystatic.com/images/icons/powered_by_jupyter.png)
 
