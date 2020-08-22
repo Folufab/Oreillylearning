@@ -29,7 +29,6 @@ pandas==1.1.1
 pandocfilters==1.4.2
 pexpect==4.8.0
 pickleshare==0.7.5
-Pillow==7.2.0rk
 ptyprocess==0.6.0
 pycurl==7.43.0.5
 Pygments==2.6.1
