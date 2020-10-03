@@ -10,6 +10,6 @@ It contains both the exercises (/notebooks), possibly the solutions (/solutions)
 
 This is a public repository so there is no need to create an account to download its contents. To download the source code from this page, click the 'Cloud' icon on the top right hand, above where the latest commit is detailed.
 
-To download via git from your preferred terminal application, type:
+To download via git from your preferred terminal application, type: 
 
 ```git clone https://resources.oreilly.com/binderhub/python-powered-excel-take-control-of-your-data-by-automating-excel-spreadsheets```
